@@ -25,6 +25,7 @@ public class laxa1 {
 		System.out.println("Whats is your phone number?");
 		String number = input.nextLine();
 		
+		System.out.println("Information: \nName\t\t" + name + "\nAge\t\t" + age + "\nAdress\t\t" + adress + "\n\t\t" + postcode + " " + city + "\nNumber\t\t" + number);
 	}
 
 }
