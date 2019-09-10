@@ -8,6 +8,8 @@ public class laxa1 {
 		// TODO Auto-generated method stub
 		Scanner input = new Scanner(System.in);
 		
+		System.out.println("Vad är ditt namn?");
+		String name = input.nextLine();
 	}
 
 }
