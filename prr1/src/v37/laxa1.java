@@ -13,6 +13,18 @@ public class laxa1 {
 		System.out.println("Whats is your age?");
 		String age = input.nextLine();
 		
+		System.out.println("Whats is your adress?");
+		String adress = input.nextLine();
+		
+		System.out.println("Whats is your postal code?");
+		String postcode = input.nextLine();
+		
+		System.out.println("In what city do you live in??");
+		String city = input.nextLine();
+		
+		System.out.println("Whats is your phone number?");
+		String number = input.nextLine();
+		
 	}
 
 }
