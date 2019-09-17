@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class laxa1 {
 
 	public static void main(String[] args) {
-		Scanner input = new Scanner(System.in);
+		Scanner input = new Scanner(System.in); //initalizes the scanner
 		
 		System.out.println("What is your name?"); //writes out and asks about your name
 		String name = input.nextLine(); //scans line and gives it the varible name
