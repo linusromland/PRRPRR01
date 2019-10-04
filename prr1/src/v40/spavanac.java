@@ -7,7 +7,7 @@ public class spavanac {
 	public static void main(String[] args) {
 		Scanner input = new Scanner (System.in);
 		
-		System.out.println("What will the time be? (hh:mm)");
+		System.out.println("What will the time be? 24h Clock! (hh:mm)");
 		String time = input.nextLine();
 		time = time.replaceAll(":","");
 		int clock = Integer.parseInt(time);
@@ -24,9 +24,15 @@ public class spavanac {
 			System.out.println(time2);
 
 		}
-		else if(clock > 2400 && clock > 45) {
+		else if(clock < 2400 && clock > 45) {
 			int answer = clock-45;
-			System.out.println(answer);
+			int hours = Integer.parseInt( String.valueOf(answer).substring(0,2));
+			int minutes = Integer.parseInt( String.valueOf(answer).substring(2,4));
+			if(minutes > 15) {
+				int correcttime = minutes - 40;
+				System.out.println(hours + ":" + correcttime);
+
+			}
 		}
 		input.close();
 	}
