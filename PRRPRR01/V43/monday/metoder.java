@@ -21,6 +21,7 @@ public class metoder {
 			   break;
 		
 		}
+		
 		input.close();
 	}
 	

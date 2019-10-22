@@ -22,6 +22,6 @@ public class metoder2 {
 		} else {
 			System.out.println(tal2);
 		}
-
+		input.close();
 	}
 }
