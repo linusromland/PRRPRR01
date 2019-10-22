@@ -1,9 +1,10 @@
 package monday;
 
 import java.util.Scanner;
+import java.util.concurrent.TimeUnit;
 
 public class metoder {
-	public static void main(String[] args) {
+	public static void main(String[] args) throws InterruptedException {
 		Scanner input = new Scanner(System.in);
 		
 		switch(input.nextLine()) {
@@ -23,8 +24,12 @@ public class metoder {
 		input.close();
 	}
 	
-	public static void anders(){
-		System.out.println("anders");
+	public static void anders() throws InterruptedException{
+		//System.out.println("anders");
+		//TimeUnit.SECONDS.sleep(1);
+		int d = 1; 
+		d += 1;
+		anders();
 	}
 	
 	public static void skola() {
