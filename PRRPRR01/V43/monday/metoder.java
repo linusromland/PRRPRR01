@@ -22,7 +22,7 @@ public class metoder {
 		}
 		input.close();
 	}
-		
+	
 	public static void anders(){
 		System.out.println("anders");
 	}
