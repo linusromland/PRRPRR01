@@ -103,4 +103,15 @@ public class homework {
 				System.out.println("R.I.P?");
 			}
 		}
+		public static void stair() {
+			Scanner input = new Scanner(System.in);
+			System.out.println("How many steps will the stair have?");
+			int x = input.nextInt();
+			for(int i = 0; i <=x; i++) {
+				for(int u = 0; u <= x; u++) {
+					
+				}
+			}
+			
+		}
 }
