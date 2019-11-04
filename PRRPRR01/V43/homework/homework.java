@@ -32,6 +32,9 @@ public class homework {
 			case "agecontrol()":
 				agecontrol();
 				
+			case "stair":
+				stair();
+				
 		}
 	}
 	
@@ -104,14 +107,25 @@ public class homework {
 			}
 		}
 		public static void stair() {
-			Scanner input = new Scanner(System.in);
-			System.out.println("How many steps will the stair have?");
-			int x = input.nextInt();
-			for(int i = 0; i <=x; i++) {
-				for(int u = 0; u <= x; u++) {
-					
-				}
-			}
 			
+			Scanner input = new Scanner(System.in);
+			
+			int stair;
+			System.out.println("gimme number");
+			stair = input.nextInt();
+			
+			for(int a = 0; a < stair; a++) {
+				
+				for (int b = 0; b < stair-a; b++) {
+			
+						System.out.print(" ");
+
+					}
+					for (int b = 0; a >= b; b++) {
+						System.out.print("x");
+					}
+					System.out.println();
+		}
+		
 		}
 }
