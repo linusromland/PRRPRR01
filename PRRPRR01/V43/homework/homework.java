@@ -2,6 +2,10 @@ package homework;
 
 import java.util.Scanner;
 
+// Jag vet att det inte är några kommentarer, hade varken tid eller ork att lägga till det här.
+
+
+
 public class homework {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);

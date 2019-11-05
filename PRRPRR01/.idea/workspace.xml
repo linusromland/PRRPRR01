@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94676b9e-dd8d-405b-b2df-367f6a504f5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PRRPRR01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/V43/homework/homework.java" beforeDir="false" afterPath="$PROJECT_DIR$/V43/homework/homework.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/V45/tuesday/mathstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/V45/tuesday/mathstring.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,7 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.metoder">
+  <component name="RunManager" selected="Application.mathstring">
     <configuration name="mathstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tuesday.mathstring" />
       <module name="PRRPRR01" />
@@ -71,8 +72,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.metoder" />
         <item itemvalue="Application.mathstring" />
+        <item itemvalue="Application.metoder" />
       </list>
     </recent_temporary>
   </component>
@@ -94,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572948559041</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="massa grejer">
+      <created>1572949859194</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1572949859194</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -112,6 +120,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added week 45 source folder and a class without any real content" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added week 45 source folder and a class without any real content" />
+    <MESSAGE value="massa grejer" />
+    <option name="LAST_COMMIT_MESSAGE" value="massa grejer" />
   </component>
 </project>

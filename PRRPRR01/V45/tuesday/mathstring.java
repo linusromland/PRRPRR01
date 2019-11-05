@@ -19,5 +19,6 @@ public class mathstring {
         if (mening.equals(mening)){
             System.out.println("samma");
         }
+
     }
 }
