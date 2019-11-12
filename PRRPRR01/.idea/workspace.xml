@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94676b9e-dd8d-405b-b2df-367f6a504f5f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/methodlibrary/hej/method.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PRRPRR01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PRRPRR01.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/V43/homework/homework.java" beforeDir="false" afterPath="$PROJECT_DIR$/V43/homework/homework.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/V45/tuesday/mathstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/V45/tuesday/mathstring.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -29,7 +29,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -43,13 +43,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.mathstring">
+  <component name="RunManager" selected="Application.method">
     <configuration name="mathstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tuesday.mathstring" />
       <module name="PRRPRR01" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="tuesday.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hej.method" />
+      <module name="PRRPRR01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hej.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,6 +85,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.method" />
         <item itemvalue="Application.mathstring" />
         <item itemvalue="Application.metoder" />
       </list>
