@@ -5,14 +5,8 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/V43" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/V45" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/methodlibrary" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/V48" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/v37" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/v38" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/v39" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/v40" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/v41" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/InteSkola" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/methodlibrary" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
