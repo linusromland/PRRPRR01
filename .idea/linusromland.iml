@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/PRRPRR01/v4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PRRPRR01/w4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PRRPRR01/InteSkola" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PRRPRR01/methodlibrary" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PRRPRR01/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PRRPRR01/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PRRPRR01/v37" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PRRPRR01/v38" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PRRPRR01/v39" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PRRPRR01/v40" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PRRPRR01/v41" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PRRPRR01/V43" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PRRPRR01/V45" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PRRPRR01/V48" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PRRPRR01/w8" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -7,7 +7,7 @@ public class method {
         Scanner input = new Scanner(System.in);
         System.out.println("This is the MethodLibrary assignment!");
         System.out.println("Type one of the following to start that method");
-        System.out.println("tokelvin, tocelsius, velocity, kinetic, potenial, delta, small,");
+        System.out.println("tokelvin, tocelsius, velocity, kinetic, potenial, delta, small, bigletters");
         System.out.println("svtTime, work, velocityToHeight, sphereVolumeToRadius,sphereVolumeToRadius, itproblem, areaofcircle" );
 
 
@@ -50,6 +50,11 @@ public class method {
                 break;
             case "small":
                 System.out.println(smallLetters("PaParaZZi"));
+                break;
+            case "bigletters":
+                System.out.println("Skriv något typ! ");
+                String  input2 = input.nextLine();
+                System.out.println(bigletters(input2));
                 break;
             case "svtTime":
                 System.out.println("Enter your distance and velocity");
