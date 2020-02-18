@@ -1,20 +1,26 @@
 package talspelet;
 import java.util.*;
+import java.util.concurrent.TimeUnit;
 
 public class talspelet {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
         Scanner input = new Scanner(System.in);
+
         while(true) { //this is here so i can restart the game.
+
             System.out.println("Welcome to the Number Game!");
             System.out.println("A very orginal game idea from offlinus");
             System.out.println("Do you want to play (1) or exit (0). Press enter after."); // a case switch to choose if you want to play or exit the game
+
             switch (input.nextLine()) {
                 case "1":
                     run();
                     break;
+
                 case "0":
                     System.out.println("Thank You for playing!");
                     System.out.println("A gane by offlinus! https://www.romland.space/");
+                    TimeUnit.SECONDS.sleep(1);
                     return;
 
             }
@@ -44,11 +50,14 @@ public class talspelet {
         System.out.println("Easy is unlimited tries");
         System.out.println("Medium is 20 tries");
         System.out.println("Hard is 10 tries");
+
         String diffcultyans;
+
         try {
             diffcultyans = input.next();
         }catch (Exception s){
             System.out.println("I wanted a string as the input!");
+            input.next();
             return;
         }
         int difficulty = difficulty(diffcultyans); //checks what difficulty is selected and then makes it an int with the right amount of allowed of tries
