@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47ec6f62-0383-42f9-932e-99e0a5be6e28" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/linusromland.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/2019 v37/laxa1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/2019 v38/laca2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/2019 v38/monday.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/2019 v38/tuesday.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/2019 v39/quadrant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/2019 v39/r2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/2019 v39/stuckintime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/2019 v40/fizzbuzz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/2019 v40/lektion1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/2019 v40/spavanac.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/2019 v40/spavanac3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/2019 v41/monday.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/2019 v43/homework/homework.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/2019 v43/monday/metoder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/2019 v43/tuesday/metoder2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/2019 v45/tuesday/mathstring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/2019 v48/laxa/upg1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/2019 v48/laxa/upg2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/2019 v48/laxa/upg3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/2020 v4/hej/tjo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/2020 v4/tisdag/lektiontyp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/2020 v8/talspelet/talspelet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/PRRPRR01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/out/production/PRRPRR01/InteSkola/primmme.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/out/production/PRRPRR01/array/array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/out/production/PRRPRR01/hej/method.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/out/production/PRRPRR01/homework/homework.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/out/production/PRRPRR01/laxa/upg1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/out/production/PRRPRR01/laxa/upg2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/out/production/PRRPRR01/laxa/upg3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/out/production/PRRPRR01/monday/metoder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/out/production/PRRPRR01/tuesday/mathstring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/out/production/PRRPRR01/tuesday/metoder2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/out/production/PRRPRR01/v37/laxa1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/out/production/PRRPRR01/v38/laca2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/out/production/PRRPRR01/v38/monday.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/out/production/PRRPRR01/v38/tuesday.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/out/production/PRRPRR01/v39/quadrant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/out/production/PRRPRR01/v39/r2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/out/production/PRRPRR01/v39/stuckintime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/out/production/PRRPRR01/v40/fizzbuzz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/out/production/PRRPRR01/v40/lektion1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/out/production/PRRPRR01/v40/spavanac.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/out/production/PRRPRR01/v40/spavanac3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRRPRR01/out/production/PRRPRR01/v41/monday.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/talspeletgui/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/talspeletgui/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/talspeletgui/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/talspeletgui/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/talspeletgui/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/talspeletgui/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/talspeletgui/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/talspeletgui/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/talspeletgui/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/talspeletgui/out/production/talspeletgui/sample/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/talspeletgui/out/production/talspeletgui/sample/KFC.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/talspeletgui/out/production/talspeletgui/sample/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/talspeletgui/src/sample/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/talspeletgui/src/sample/KFC.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/talspeletgui/src/sample/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/talspeletgui/talspeletgui.iml" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YaJQrbc09MBG12AlDuhL9v9Q9Y" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47ec6f62-0383-42f9-932e-99e0a5be6e28" name="Default Changelist" comment="" />
+      <created>1583174759540</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583174759540</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
