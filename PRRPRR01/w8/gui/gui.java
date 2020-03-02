@@ -1,3 +1,4 @@
+package gui;
 
 import java.awt.event.*;
 import javax.sound.sampled.AudioInputStream;
@@ -23,15 +24,26 @@ public class gui {
             }
         });
 
+        JButton d = new JButton("Easy");
+        b.setBounds(170, 100, 95, 30);
+        b.addActionListener(new ActionListener() {
+
+            public void actionPerformed(ActionEvent e) {
+                System.out.println("ye easy diff");
+            }
+        });
+
         JButton c = new JButton("Play");
         c.setBounds(70, 100, 95, 30);
         c.addActionListener(new ActionListener() {
 
             public void actionPerformed(ActionEvent e) {
-                doPlay("play.wav");
-
+                f.remove(b);
+                f.remove(c);
+                f.add(d);
             }
         });
+
 
 
         f.add(b);f.add(c);
@@ -41,18 +53,5 @@ public class gui {
     }
 
 
-    public static void doPlay(String url) {
-        Clip clip;
-
-        try {
-            AudioInputStream inputStream = AudioSystem
-                    .getAudioInputStream(gui.class.getResourceAsStream(url));
-            clip = AudioSystem.getClip();
-            clip.open(inputStream);
-            clip.start();
-        } catch (Exception e) {
-            System.err.println(e.getMessage());
-        }
-    }
 
 }
